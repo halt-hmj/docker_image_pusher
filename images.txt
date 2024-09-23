@@ -1,2 +1,2 @@
-kibana:7.12.1
-elasticsearch:7.12.1
+wordpress:latest
+mysql:5.7
